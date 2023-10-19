@@ -20,12 +20,12 @@ main {
 
 .my-line-white {
     min-height: 5px;
-    min-width: 150px;
+    min-width: 120px;
     background-color: white;
 }
 .my-line-black {
     min-height: 5px;
-    min-width: 150px;
+    min-width: 120px;
     background-color: black;
 }
 
@@ -79,8 +79,8 @@ main {
     margin: 0 20px;
   }
   .link-1:hover {
-    border-top: 4px solid #ffffff;
-    border-bottom: 4px solid #ffffff;
+    border-top: 4px solid #1abc9c;
+    border-bottom: 4px solid #1abc9c;
     padding: 6px 0; 
   }
 
@@ -90,8 +90,8 @@ main {
     margin: 0 20px;
   }
   .link-2:hover {
-    border-top: 4px solid #ffffff;
-    border-bottom: 4px solid #ffffff;
+    border-top: 4px solid #1abc9c;
+    border-bottom: 4px solid #1abc9c;
     padding: 6px 0; 
   }
 
@@ -101,7 +101,7 @@ main {
     margin: 0 20px;
   }
   .link-3:hover {
-    border-top: 4px solid #ffffff;
-    border-bottom: 4px solid #ffffff;
+    border-top: 4px solid #1abc9c;
+    border-bottom: 4px solid #1abc9c;
     padding: 6px 0; 
   }
